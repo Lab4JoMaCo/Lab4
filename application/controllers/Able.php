@@ -11,8 +11,14 @@
  *
  * @author Sergio
  */
-class Able {
-    //put your code here
+class Able extends Application
+{
+
+    function __construct()
+    {
+        parent::__construct();
+    }
+        
     public function index() {
         $this->show(1);
     }
