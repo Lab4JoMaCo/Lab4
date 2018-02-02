@@ -18,3 +18,4 @@ Sergio - Added echo folder with Must.php controller
 Cody - Added routing rule
 Cody - Added Foxtrot
 Sergio - Added Golf.php controller, made the link redirect with a regex
+Cody - Added Hotel
