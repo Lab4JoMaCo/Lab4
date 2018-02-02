@@ -54,6 +54,8 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 $route['foxtrot'] = 'tango';
 $route['i/.*']='golf';
+$route['show/(:any)'] = 'welcome/show/$1';
 $route['bananas/rule'] = function() {
     return 'golf';
 };
+
