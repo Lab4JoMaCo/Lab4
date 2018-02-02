@@ -14,3 +14,4 @@ Sergio - Added Able controller and updated config.php
 Sergio - Fixed bug in Able.php
 Sergio - Added Charlie controller with brown() method
 Sergio - Added echo folder with Must.php controller
+Sergio - Added Golf.php controller, made the link redirect with a regex
