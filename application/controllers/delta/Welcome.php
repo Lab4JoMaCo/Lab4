@@ -14,7 +14,7 @@ class Welcome extends Application
 	 */
 	public function index()
 	{
-		$this->show(2);
+		$this->show(4);
 	}
 
 }
