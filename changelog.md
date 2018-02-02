@@ -15,3 +15,5 @@ Sergio - Fixed bug in Able.php
 Cody - Added Delta
 Sergio - Added Charlie controller with brown() method
 Sergio - Added echo folder with Must.php controller
+Cody - Added routing rule
+Cody - Added Foxtrot
