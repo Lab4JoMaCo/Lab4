@@ -12,3 +12,4 @@ Martin - Added changelog
 Cody - Added Bravo to controllers
 Sergio - Added Able controller and updated config.php
 Sergio - Fixed bug in Able.php
+Cody - Added Delta
