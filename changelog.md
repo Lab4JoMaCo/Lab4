@@ -19,3 +19,4 @@ Cody - Added routing rule
 Cody - Added Foxtrot
 Sergio - Added Golf.php controller, made the link redirect with a regex
 Cody - Added Hotel
+Sergio - Added India.php controller that displays an image (baboon.bmp)
