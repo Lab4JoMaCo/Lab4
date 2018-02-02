@@ -16,3 +16,4 @@ Cody - Added Delta
 Sergio - Added Charlie controller with brown() method
 Sergio - Added echo folder with Must.php controller
 Sergio - Added Golf.php controller, made the link redirect with a regex
+Sergio - Added India.php controller that displays an image (baboon.bmp)
