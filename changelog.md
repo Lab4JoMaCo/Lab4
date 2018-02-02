@@ -9,4 +9,4 @@ Changes will be added oldest at the top
 ---------------------------------------
 
 Martin - Added changelog
-Cody - Added Bravo
+Cody - Added Bravo to controllers
